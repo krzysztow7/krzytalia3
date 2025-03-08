@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="pl">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Krzytalia - Nasz Ślub</title>
+    <style>
+        body { font-family: Arial, sans-serif; text-align: center; background-color: #fbe8e4; color: #333; }
+        header { background-color: #ffcccc; padding: 20px; font-size: 24px; }
+        section { margin: 20px; padding: 20px; background: white; border-radius: 10px; box-shadow: 0 0 10px rgba(0,0,0,0.1); }
+        footer { margin-top: 20px; padding: 10px; background: #ffcccc; }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>Krzyś & Natalka - Nasz Ślub</h1>
+    </header>
+    <section>
+        <h2>Witamy na naszej stronie ślubnej!</h2>
+        <p>Już wkrótce powiemy sobie TAK! Zapraszamy do świętowania razem z nami.</p>
+        <p><strong>Data ślubu:</strong> [Tu wpisz datę]</p>
+        <p><strong>Miejsce ceremonii:</strong> [Tu wpisz miejsce]</p>
+    </section>
+    <footer>
+        <p>Do zobaczenia na ślubie! ❤️</p>
+    </footer>
+</body>
+</html>
